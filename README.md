@@ -1,6 +1,6 @@
 # DECOIT RT-Connector #
 
-The DECOIT RT-Connector is a library that allows to access most parts of the Request Tracker (RT) REST API.
+The DECOIT RT-Connector is a library that allows to access most parts of the [Request Tracker (RT)](https://www.bestpractical.com/rt/) REST API. It was developed during the [iMonitor](http://www.imonitor-project.de/) and [SIMU](http://www.simu-project.de/) research projects.
 
 ## Usage ##
 
